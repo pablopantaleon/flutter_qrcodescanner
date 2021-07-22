@@ -31,6 +31,8 @@ The project simulates a clean architecture, the right way to do this is creating
 ## Testing
 The project includes general testing but a lot of testing is still missing, the idea here is just to have some basic testing files to get a feel of how to do it. Like unit-testing, bloc testing, widget testing and golden files.
 
+## Lint
+Lint rules are not applied for this demo project
 
 ## Error Handling
 1. Errors like network connections or bad data are handled using a generic bloc state
